@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohan-ishida
-- 👀 I’m interested in Data engienering 
+- 👀 I’m interested in Data engienering/Python  
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me coderishida@gmail.com
 - 😄 Pronouns: He/Him
