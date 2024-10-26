@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me coderishida@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a otaku, and my fav anime is Bleach,AOT,vinland saga...
+- ⚡ Fun fact:I like reading README files and documentation:)
 
 <!---
 Rohan-ishida/Rohan-ishida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
